@@ -69,7 +69,7 @@ namespace CTDL_GT.array_list
 
             foreach (sinhvien sv in danhsach)
             {
-                sv.hienthi(); 
+                sv.hienthi();
             }
         }
     }
